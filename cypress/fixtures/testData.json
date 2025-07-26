@@ -1,0 +1,12 @@
+{
+  "signinUserData": {
+    "valid": {
+      "username": "demouser",
+      "password": "testingisfun99"
+    },
+    "locked": {
+      "username": "locked_user",
+      "password": "testingisfun99"
+    }
+  }
+}
